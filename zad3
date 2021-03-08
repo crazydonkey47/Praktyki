@@ -1,6 +1,6 @@
 package com.company;
 
-public class zad3petle.java {
+public class Main {
 
     public static void main(String[] args) {
 
