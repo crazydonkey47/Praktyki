@@ -1,0 +1,20 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+       
+    }
+
+    public void printTable(int[][] table) {
+
+        for (int[] ints : table) {
+            for (int anInt : ints) {
+                System.out.print(anInt + "\t");
+            }
+            System.out.println();
+        }
+
+    }
+
+}
