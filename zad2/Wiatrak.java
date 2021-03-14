@@ -1,4 +1,4 @@
-package com.company.z2;
+package com.company.zad2;
 
 public class Wiatrak {
     int speed;
