@@ -1,4 +1,4 @@
-package com.company.z1;
+package com.company.zad1;
 
 public class Remote {
 
