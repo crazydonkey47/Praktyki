@@ -1,4 +1,4 @@
-package com.company.z2;
+package com.company.zad2;
 
 public class Bakery extends Shop{
     private String[] products = {"Hotdog", "Nuggetsy", "Big essa", "kanapka z serem"};
