@@ -1,4 +1,4 @@
-package com.company;
+package com.company.klasy;
 
 public class Color {
     String color;
